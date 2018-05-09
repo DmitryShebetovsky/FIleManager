@@ -1,0 +1,6 @@
+c:\users\дима\documents\visual studio 2017\Projects\FileManager\FileManager\bin\Debug\FileManager.exe.config
+c:\users\дима\documents\visual studio 2017\Projects\FileManager\FileManager\bin\Debug\FileManager.exe
+c:\users\дима\documents\visual studio 2017\Projects\FileManager\FileManager\bin\Debug\FileManager.pdb
+c:\users\дима\documents\visual studio 2017\Projects\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+c:\users\дима\documents\visual studio 2017\Projects\FileManager\FileManager\obj\Debug\FileManager.exe
+c:\users\дима\documents\visual studio 2017\Projects\FileManager\FileManager\obj\Debug\FileManager.pdb
